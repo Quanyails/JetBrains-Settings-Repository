@@ -1,4 +1,8 @@
 <keymap version="1" name="Eclipse (Mac OS X) Modified" parent="Eclipse (Mac OS X)">
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate">
@@ -20,7 +24,14 @@
   </action>
   <action id="FindUsages" />
   <action id="IpnbRunCellInplaceAction" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
   <action id="ReformatCode" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta f11" />
     <keyboard-shortcut first-keystroke="meta enter" />
