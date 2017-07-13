@@ -26,6 +26,10 @@
   <action id="FindUsages" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="shift meta alt f" />
+  </action>
   <action id="IpnbRunCellInplaceAction" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
