@@ -1,4 +1,4 @@
-<keymap version="1" name="Eclipse Modified" parent="Eclipse">
+<keymap version="1" name="Custom Eclipse Windows" parent="Eclipse">
   <action id="Console.Execute.Multiline" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate">
