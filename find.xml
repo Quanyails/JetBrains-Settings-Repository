@@ -1,0 +1,35 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*.py" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>a</mask>
+      <mask>ap</mask>
+      <mask>api</mask>
+      <mask>api_</mask>
+      <mask>api_c</mask>
+      <mask>api_co</mask>
+      <mask>api_com</mask>
+      <mask>api_commo</mask>
+      <mask>api_common</mask>
+      <mask>api_common.</mask>
+      <mask>api_common.py</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
+    </recentFileMasks>
+  </component>
+</application>
