@@ -1,4 +1,4 @@
-<keymap version="1" name="Eclipse (Mac OS X) Modified" parent="Eclipse (Mac OS X)">
+<keymap version="1" name="Custom Eclipse (Mac OS X)" parent="Eclipse (Mac OS X)">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
