@@ -10,9 +10,6 @@
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
-  <action id="Compare.SameVersion">
-    <keyboard-shortcut first-keystroke="meta u" />
-  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Diff.SelectedChange" />
   <action id="Diff.ShowSettingsPopup" />
@@ -41,7 +38,9 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
-  <action id="FindUsages" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile">
