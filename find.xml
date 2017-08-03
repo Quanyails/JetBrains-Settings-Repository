@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -26,6 +27,7 @@
       <mask>api_common.py</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.py </mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
