@@ -29,6 +29,10 @@
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.s</mask>
+      <mask>*.sv</mask>
+      <mask>*.svg</mask>
     </recentFileMasks>
   </component>
 </application>
