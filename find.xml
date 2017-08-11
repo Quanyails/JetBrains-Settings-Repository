@@ -9,7 +9,6 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -25,9 +24,13 @@
       <mask>api_common.</mask>
       <mask>api_common.py</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.py </mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.ks</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
