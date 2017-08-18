@@ -3,6 +3,7 @@
     <option name="customScope" value="Default" />
     <option name="defaultScopeName" value="Default" />
     <option name="SEARCH_SCOPE" value="Default" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -25,7 +26,6 @@
       <mask>api_common.py</mask>
       <mask>*</mask>
       <mask>*.py </mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
@@ -33,6 +33,7 @@
       <mask>*.s</mask>
       <mask>*.sv</mask>
       <mask>*.svg</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
