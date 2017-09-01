@@ -3,9 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.tmpl" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -23,7 +22,6 @@
       <mask>api_common</mask>
       <mask>api_common.</mask>
       <mask>api_common.py</mask>
-      <mask>*</mask>
       <mask>*.py </mask>
       <mask>*.p</mask>
       <mask>*.</mask>
@@ -33,6 +31,10 @@
       <mask>*.sv</mask>
       <mask>*.svg</mask>
       <mask>*.py</mask>
+      <mask>*</mask>
+      <mask>*.tm</mask>
+      <mask>*.tmp</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
