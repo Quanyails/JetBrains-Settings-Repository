@@ -53,7 +53,6 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift meta r" />
     <keyboard-shortcut first-keystroke="shift meta alt f" />
   </action>
   <action id="InspectCode">
@@ -70,6 +69,9 @@
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
