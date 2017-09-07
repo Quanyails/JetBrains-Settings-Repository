@@ -2,6 +2,7 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="AutoIndentLines" />
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="meta alt c" />
     <keyboard-shortcut first-keystroke="shift alt c" />
@@ -54,6 +55,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta alt f" />
   </action>
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="IpnbRunCellInplaceAction" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
@@ -67,7 +71,7 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
@@ -76,6 +80,7 @@
     <keyboard-shortcut first-keystroke="shift meta f11" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="RunToCursor" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="shift meta space" />
