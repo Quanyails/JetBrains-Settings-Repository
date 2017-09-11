@@ -3,8 +3,8 @@
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
     <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -19,7 +19,6 @@
       <mask>api_common</mask>
       <mask>api_common.</mask>
       <mask>api_common.py</mask>
-      <mask>*.j</mask>
       <mask>*.s</mask>
       <mask>*.sv</mask>
       <mask>*.svg</mask>
@@ -28,12 +27,14 @@
       <mask>*.tmpl</mask>
       <mask>*.py </mask>
       <mask>*.p</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>*.py</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>**</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
