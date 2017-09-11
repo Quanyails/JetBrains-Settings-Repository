@@ -30,10 +30,10 @@
       <mask>*.p</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*</mask>
-      <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
