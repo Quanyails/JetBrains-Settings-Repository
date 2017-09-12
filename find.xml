@@ -3,9 +3,7 @@
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
     <option name="SEARCH_SCOPE" value="Current File" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>a</mask>
       <mask>ap</mask>
       <mask>api</mask>
       <mask>api_</mask>
@@ -21,20 +19,21 @@
       <mask>*.svg</mask>
       <mask>*.py </mask>
       <mask>*.p</mask>
-      <mask>*.py</mask>
       <mask>*.j</mask>
       <mask>**</mask>
       <mask>*tm</mask>
       <mask>*t</mask>
       <mask>*</mask>
       <mask>*.tmp</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.py</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
       <mask>*.t</mask>
       <mask>*.tm</mask>
       <mask>*.tmpl</mask>
-      <mask>*.</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
