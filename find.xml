@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tmpl" />
     <recentFileMasks>
       <mask>ap</mask>
       <mask>api</mask>
@@ -25,15 +26,15 @@
       <mask>*</mask>
       <mask>*.py</mask>
       <mask>*.l</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.tmp</mask>
-      <mask>*.tm</mask>
       <mask>*.t</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.tm</mask>
+      <mask>*.tmp</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
