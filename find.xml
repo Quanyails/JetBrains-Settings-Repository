@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>ap</mask>
@@ -24,7 +26,6 @@
       <mask>*t</mask>
       <mask>*.py</mask>
       <mask>*.l</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.tmp</mask>
       <mask>*</mask>
@@ -34,6 +35,7 @@
       <mask>*.tmpl</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
