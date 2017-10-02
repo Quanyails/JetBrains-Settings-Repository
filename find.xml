@@ -4,10 +4,6 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>a</mask>
       <mask>ap</mask>
       <mask>api</mask>
       <mask>api_</mask>
@@ -21,19 +17,23 @@
       <mask>*.s</mask>
       <mask>*.sv</mask>
       <mask>*.svg</mask>
-      <mask>*.tm</mask>
-      <mask>*.tmp</mask>
-      <mask>*.tmpl</mask>
       <mask>*.py </mask>
       <mask>*.p</mask>
-      <mask>*.py</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>**</mask>
+      <mask>*tm</mask>
+      <mask>*t</mask>
+      <mask>*.py</mask>
+      <mask>*.l</mask>
+      <mask>*.j</mask>
+      <mask>*.tmp</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tm</mask>
+      <mask>*.tmpl</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
