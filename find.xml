@@ -29,11 +29,11 @@
       <mask>*.t</mask>
       <mask>*.tm</mask>
       <mask>*.tmpl</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
