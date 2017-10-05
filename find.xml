@@ -30,10 +30,10 @@
       <mask>*.tm</mask>
       <mask>*.tmpl</mask>
       <mask>*.les</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.less</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
