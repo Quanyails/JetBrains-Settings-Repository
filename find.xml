@@ -25,15 +25,15 @@
       <mask>*.py</mask>
       <mask>*.l</mask>
       <mask>*.tmp</mask>
-      <mask>*</mask>
-      <mask>*.t</mask>
-      <mask>*.tm</mask>
-      <mask>*.tmpl</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tm</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
