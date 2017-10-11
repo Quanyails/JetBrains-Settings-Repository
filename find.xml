@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>ap</mask>
       <mask>api</mask>
@@ -26,16 +27,16 @@
       <mask>*.l</mask>
       <mask>*.tmp</mask>
       <mask>*.j</mask>
-      <mask>*</mask>
       <mask>*.t</mask>
       <mask>*.tm</mask>
       <mask>*.tmpl</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
