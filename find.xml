@@ -20,22 +20,22 @@
       <mask>*.sv</mask>
       <mask>*.svg</mask>
       <mask>*.py </mask>
-      <mask>*.p</mask>
       <mask>**</mask>
       <mask>*tm</mask>
       <mask>*t</mask>
       <mask>*.l</mask>
       <mask>*.tmp</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.tm</mask>
       <mask>*.tmpl</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
