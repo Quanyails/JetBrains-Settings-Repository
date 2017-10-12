@@ -24,18 +24,19 @@
       <mask>*tm</mask>
       <mask>*t</mask>
       <mask>*.l</mask>
-      <mask>*.tmp</mask>
       <mask>*.j</mask>
+      <mask>*.tmp</mask>
       <mask>*.t</mask>
       <mask>*.tm</mask>
       <mask>*.tmpl</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
+      <mask>*.less</mask>
       <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.les</mask>
-      <mask>*.less</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
