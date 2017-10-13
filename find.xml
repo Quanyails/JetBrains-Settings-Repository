@@ -2,8 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>ap</mask>
       <mask>api</mask>
@@ -18,11 +19,13 @@
       <mask>*.s</mask>
       <mask>*.sv</mask>
       <mask>*.svg</mask>
+      <mask>*.py </mask>
       <mask>**</mask>
       <mask>*tm</mask>
       <mask>*t</mask>
       <mask>*.l</mask>
-      <mask>*.les</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
       <mask>*.less</mask>
       <mask>*</mask>
       <mask>*.py </mask>
@@ -30,10 +33,6 @@
       <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.tm</mask>
-      <mask>*.tmp</mask>
-      <mask>*.tmpl</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
