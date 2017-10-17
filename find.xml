@@ -6,8 +6,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>ap</mask>
-      <mask>api</mask>
       <mask>api_</mask>
       <mask>api_c</mask>
       <mask>api_co</mask>
@@ -23,17 +21,21 @@
       <mask>**</mask>
       <mask>*tm</mask>
       <mask>*t</mask>
-      <mask>*.l</mask>
-      <mask>*.p</mask>
-      <mask>*.less</mask>
       <mask>*</mask>
       <mask>*.py </mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*.py</mask>
-      <mask>*.py</mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.tm</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
