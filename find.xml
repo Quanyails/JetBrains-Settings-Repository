@@ -2,11 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>api</mask>
-      <mask>api_</mask>
       <mask>api_c</mask>
       <mask>api_co</mask>
       <mask>api_com</mask>
@@ -21,19 +21,21 @@
       <mask>**</mask>
       <mask>*tm</mask>
       <mask>*t</mask>
+      <mask>*.py </mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.tmp</mask>
-      <mask>*.t</mask>
-      <mask>*.tm</mask>
       <mask>*.tmpl</mask>
       <mask>*</mask>
-      <mask>*.py</mask>
-      <mask>*.py</mask>
+      <mask>*.tm</mask>
+      <mask>*.t</mask>
+      <mask>*.p</mask>
       <mask>*.p</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
