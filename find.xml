@@ -27,15 +27,10 @@
       <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.p</mask>
-      <mask>*.py</mask>
-      <mask>*.py</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
-      <mask>*.t</mask>
-      <mask>*.less</mask>
-      <mask>*.</mask>
-      <mask>*.tm</mask>
-      <mask>*.tmpl</mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
