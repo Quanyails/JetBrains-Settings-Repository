@@ -23,7 +23,6 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.tmpl</mask>
       <mask>*</mask>
       <mask>*.tm</mask>
       <mask>*.t</mask>
@@ -33,6 +32,7 @@
       <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
+      <mask>*.tmpl</mask>
       <mask>*.py</mask>
       <mask>*.py</mask>
     </recentFileMasks>
