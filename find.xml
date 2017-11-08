@@ -18,15 +18,11 @@
       <mask>*tm</mask>
       <mask>*t</mask>
       <mask>*.py </mask>
-      <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*</mask>
-      <mask>*.tm</mask>
-      <mask>*.t</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.p</mask>
       <mask>*.js</mask>
