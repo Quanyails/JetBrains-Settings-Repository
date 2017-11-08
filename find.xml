@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" value="*.tmpl" />
     <recentFileMasks>
       <mask>api_co</mask>
@@ -27,6 +27,7 @@
       <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
+      <mask>*.tmpl</mask>
       <mask>*.py</mask>
       <mask>*.py</mask>
       <mask>*/</mask>
