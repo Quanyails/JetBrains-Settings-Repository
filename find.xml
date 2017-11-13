@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.tmpl" />
     <recentFileMasks>
       <mask>api_com</mask>
       <mask>api_commo</mask>
@@ -25,8 +26,6 @@
       <mask>*/</mask>
       <mask>*</mask>
       <mask>*.tm</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.tmpl</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*.</mask>
@@ -34,6 +33,8 @@
       <mask>*.py</mask>
       <mask>*.py</mask>
       <mask>*.less</mask>
+      <mask>*.tmpl</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
