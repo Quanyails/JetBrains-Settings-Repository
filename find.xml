@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>api_com</mask>
       <mask>api_commo</mask>
@@ -31,9 +32,9 @@
       <mask>*.l</mask>
       <mask>*.</mask>
       <mask>*.les</mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
       <mask>*.less</mask>
-      <mask>*.py</mask>
-      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
