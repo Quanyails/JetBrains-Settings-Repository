@@ -3,14 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>api_co</mask>
-      <mask>api_com</mask>
       <mask>api_commo</mask>
       <mask>api_common</mask>
       <mask>api_common.</mask>
@@ -23,18 +18,24 @@
       <mask>*tm</mask>
       <mask>*t</mask>
       <mask>*.py </mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
+      <mask>*/</mask>
+      <mask>*.tm</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.les</mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
+      <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
-      <mask>*.py</mask>
-      <mask>*.py</mask>
+      <mask>*.tmpl</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
