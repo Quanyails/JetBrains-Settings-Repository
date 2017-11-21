@@ -21,8 +21,6 @@
       <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.p</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
       <mask>*/</mask>
       <mask>*.tm</mask>
       <mask>*.le</mask>
@@ -36,6 +34,8 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.less</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
