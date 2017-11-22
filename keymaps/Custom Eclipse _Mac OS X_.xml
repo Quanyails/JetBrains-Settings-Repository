@@ -7,7 +7,6 @@
     <keyboard-shortcut first-keystroke="meta alt c" />
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
-  <action id="CloseActiveTab" />
   <action id="CloseContent" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta divide" />
