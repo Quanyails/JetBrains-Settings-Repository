@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.tmpl" />
     <recentFileMasks>
       <mask>api_commo</mask>
       <mask>api_common</mask>
@@ -31,11 +30,11 @@
       <mask>*.py</mask>
       <mask>*.py</mask>
       <mask>*.tmp</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.tmpl</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.less</mask>
+      <mask>*.tmpl</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
