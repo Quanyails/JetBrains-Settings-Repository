@@ -1,6 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
@@ -29,13 +28,11 @@
       <mask>*.py</mask>
       <mask>*.py</mask>
       <mask>*.tmp</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.tmpl</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.less</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
+      <mask>*.tmpl</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
