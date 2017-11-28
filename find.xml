@@ -29,9 +29,9 @@
       <mask>*.tmp</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.tmpl</mask>
+      <mask>*.tmpl</mask>
       <mask>*.less</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
