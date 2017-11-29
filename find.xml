@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>api_commo</mask>
       <mask>api_common</mask>
@@ -11,11 +12,9 @@
       <mask>*.s</mask>
       <mask>*.sv</mask>
       <mask>*.svg</mask>
-      <mask>*.py </mask>
       <mask>**</mask>
       <mask>*tm</mask>
       <mask>*t</mask>
-      <mask>*.py </mask>
       <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.p</mask>
@@ -33,6 +32,9 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.js</mask>
+      <mask>*.py </mask>
+      <mask>*.py </mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
