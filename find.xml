@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>api_commo</mask>
       <mask>api_common</mask>
@@ -23,12 +24,15 @@
       <mask>*.tm</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.les</mask>
       <mask>*.tmp</mask>
       <mask>*</mask>
+      <mask>*.tmpl</mask>
+      <mask>*.tmpl</mask>
+      <mask>*.es</mask>
+      <mask>*.e</mask>
       <mask>*.</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.tmpl</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
