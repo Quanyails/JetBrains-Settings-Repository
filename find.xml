@@ -22,18 +22,18 @@
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*.tmp</mask>
-      <mask>*</mask>
       <mask>*.tmpl</mask>
       <mask>*.tmpl</mask>
       <mask>*.es</mask>
       <mask>*.e</mask>
-      <mask>*.</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>*.py </mask>
       <mask>*.py </mask>
       <mask>*.py</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
