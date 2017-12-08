@@ -29,11 +29,11 @@
       <mask>*.</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.tmpl</mask>
       <mask>*.py </mask>
       <mask>*.py </mask>
       <mask>*.py</mask>
+      <mask>*.tmpl</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
