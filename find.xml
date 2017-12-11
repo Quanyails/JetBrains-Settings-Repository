@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'duolingo-englishtest'" />
-    <option name="defaultScopeName" value="Project 'duolingo-englishtest'" />
-    <option name="SEARCH_SCOPE" value="Project 'duolingo-englishtest'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>api_commo</mask>
       <mask>api_common</mask>
@@ -24,7 +24,6 @@
       <mask>*.tmp</mask>
       <mask>*.es</mask>
       <mask>*.e</mask>
-      <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.les</mask>
@@ -34,6 +33,7 @@
       <mask>*.py</mask>
       <mask>*.tmpl</mask>
       <mask>*.tmpl</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
