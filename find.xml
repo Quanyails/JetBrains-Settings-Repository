@@ -2,8 +2,38 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>api_commo</mask>
+      <mask>api_common</mask>
+      <mask>api_common.</mask>
+      <mask>api_common.py</mask>
+      <mask>*.s</mask>
+      <mask>*.sv</mask>
+      <mask>*.svg</mask>
+      <mask>**</mask>
+      <mask>*tm</mask>
+      <mask>*t</mask>
+      <mask>*.j</mask>
+      <mask>*.p</mask>
+      <mask>*.p</mask>
+      <mask>*/</mask>
+      <mask>*.tm</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.tmp</mask>
+      <mask>*.es</mask>
+      <mask>*.e</mask>
+      <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.tmpl</mask>
+      <mask>*.tmpl</mask>
+      <mask>*.py </mask>
+      <mask>*.py </mask>
+      <mask>*.py</mask>
+    </recentFileMasks>
   </component>
 </application>
