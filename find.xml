@@ -27,13 +27,13 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>*.py </mask>
       <mask>*.py </mask>
       <mask>*.py</mask>
       <mask>*.tmpl</mask>
       <mask>*.tmpl</mask>
       <mask>*.js</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
