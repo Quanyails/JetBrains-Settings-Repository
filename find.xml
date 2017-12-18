@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>api_commo</mask>
       <mask>api_common</mask>
       <mask>api_common.</mask>
       <mask>api_common.py</mask>
@@ -28,11 +27,13 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.les</mask>
+      <mask>*.py </mask>
+      <mask>*.py </mask>
+      <mask>*.py</mask>
+      <mask>*.tmpl</mask>
+      <mask>*.tmpl</mask>
       <mask>*.less</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.py </mask>
-      <mask>*.py </mask>
+      <mask>*.js</mask>
       <mask>*.js</mask>
       <mask>*.py</mask>
     </recentFileMasks>
