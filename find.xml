@@ -31,9 +31,9 @@
       <mask>*.p</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
       <mask>*.less</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
