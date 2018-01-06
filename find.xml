@@ -13,8 +13,6 @@
       <mask>*tm</mask>
       <mask>*t</mask>
       <mask>*.j</mask>
-      <mask>*.p</mask>
-      <mask>*.p</mask>
       <mask>*/</mask>
       <mask>*.tm</mask>
       <mask>*.le</mask>
@@ -23,17 +21,19 @@
       <mask>*.es</mask>
       <mask>*.e</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.les</mask>
       <mask>*.py </mask>
       <mask>*.py </mask>
       <mask>*.tmpl</mask>
       <mask>*.tmpl</mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
       <mask>*.less</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
-      <mask>*.py</mask>
-      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
