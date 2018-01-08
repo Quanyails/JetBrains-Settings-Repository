@@ -26,14 +26,14 @@
       <mask>*.py </mask>
       <mask>*.tmpl</mask>
       <mask>*.tmpl</mask>
-      <mask>*.py</mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
       <mask>*.less</mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
