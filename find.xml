@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>api_common.</mask>
       <mask>api_common.py</mask>
       <mask>*.s</mask>
       <mask>*.sv</mask>
@@ -24,16 +23,17 @@
       <mask>*.p</mask>
       <mask>*.p</mask>
       <mask>*.less</mask>
-      <mask>*.tm</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.tmpl</mask>
       <mask>*</mask>
-      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.py</mask>
       <mask>*.py</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.t</mask>
+      <mask>*.tm</mask>
+      <mask>*.tmpl</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
