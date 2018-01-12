@@ -4,11 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.py </mask>
-      <mask>*.p</mask>
-      <mask>*.p</mask>
-      <mask>*.less</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.py</mask>
       <mask>*.py</mask>
@@ -34,6 +29,11 @@
       <mask>*.tmpl, *.js, *.html,</mask>
       <mask>*.tmpl, *.js, *.html,</mask>
       <mask>*.tmpl, *.js, *.html</mask>
+      <mask>*.tmpl, *.js,*.html</mask>
+      <mask>*.tmpl, *.j*.html</mask>
+      <mask>*.tmpl, *.*.html</mask>
+      <mask>*.tmpl, **.html</mask>
+      <mask>*.tmpl, *.html</mask>
     </recentFileMasks>
   </component>
 </application>
