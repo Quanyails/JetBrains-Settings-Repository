@@ -4,21 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>api_common.py</mask>
-      <mask>*.s</mask>
-      <mask>*.sv</mask>
-      <mask>*.svg</mask>
-      <mask>**</mask>
-      <mask>*tm</mask>
-      <mask>*t</mask>
-      <mask>*/</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*.tmp</mask>
-      <mask>*.es</mask>
-      <mask>*.e</mask>
-      <mask>*.les</mask>
-      <mask>*.py </mask>
       <mask>*.py </mask>
       <mask>*.p</mask>
       <mask>*.p</mask>
@@ -27,13 +12,28 @@
       <mask>*.</mask>
       <mask>*.py</mask>
       <mask>*.py</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.t</mask>
       <mask>*.tm</mask>
+      <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
       <mask>*.tmpl</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
+      <mask>*.tmpl,</mask>
+      <mask>*.tmpl, *</mask>
+      <mask>*.tmpl, *.</mask>
+      <mask>*.tmpl, *.js</mask>
+      <mask>*.tmpl, *.js,</mask>
+      <mask>*.tmpl, *.js,</mask>
+      <mask>*.tmpl, *.js, *</mask>
+      <mask>*.tmpl, *.js, *.</mask>
+      <mask>*.tmpl, *.js, *.h</mask>
+      <mask>*.tmpl, *.js, *.ht</mask>
+      <mask>*.tmpl, *.js, *.htm</mask>
+      <mask>*.tmpl, *.js, *.html,</mask>
+      <mask>*.tmpl, *.js, *.html,</mask>
+      <mask>*.tmpl, *.js, *.html</mask>
     </recentFileMasks>
   </component>
 </application>
