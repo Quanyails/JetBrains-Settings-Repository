@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.tmpl, *.js</mask>
-      <mask>*.tmpl, *.js,</mask>
       <mask>*.tmpl, *.js,</mask>
       <mask>*.tmpl, *.js, *</mask>
       <mask>*.tmpl, *.js, *.</mask>
@@ -20,11 +19,9 @@
       <mask>*.tmpl, *.*.html</mask>
       <mask>*.tmpl, **.html</mask>
       <mask>*.tmpl, *.html</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.tm</mask>
       <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
@@ -34,6 +31,10 @@
       <mask>*.tmpl, *h</mask>
       <mask>*.tmpl, *htm</mask>
       <mask>*.tmpl, *html</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
