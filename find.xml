@@ -21,14 +21,16 @@
       <mask>*.js</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*.py </mask>
+      <mask>*.py </mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
       <mask>*.tm</mask>
       <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
       <mask>*.tmpl</mask>
-      <mask>*.py </mask>
-      <mask>*.py </mask>
-      <mask>*.py</mask>
-      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
