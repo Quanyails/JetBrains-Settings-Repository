@@ -7,30 +7,25 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>api_common.</mask>
-      <mask>api_common.py</mask>
-      <mask>*.s</mask>
-      <mask>*.sv</mask>
-      <mask>*.svg</mask>
-      <mask>**</mask>
-      <mask>*tm</mask>
-      <mask>*t</mask>
-      <mask>*/</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*.tmp</mask>
-      <mask>*.es</mask>
-      <mask>*.e</mask>
-      <mask>*</mask>
-      <mask>*.les</mask>
-      <mask>*.p</mask>
-      <mask>*.p</mask>
-      <mask>*.less</mask>
+      <mask>*.tmpl, *.js,</mask>
+      <mask>*.tmpl, *.js, *</mask>
+      <mask>*.tmpl, *.js, *.</mask>
+      <mask>*.tmpl, *.js, *.h</mask>
+      <mask>*.tmpl, *.js, *.ht</mask>
+      <mask>*.tmpl, *.js, *.htm</mask>
+      <mask>*.tmpl, *.js, *.html,</mask>
+      <mask>*.tmpl, *.js, *.html,</mask>
+      <mask>*.tmpl, *.js, *.html</mask>
+      <mask>*.tmpl, *.js,*.html</mask>
+      <mask>*.tmpl, *.j*.html</mask>
+      <mask>*.tmpl, *.*.html</mask>
+      <mask>*.tmpl, **.html</mask>
+      <mask>*.tmpl, *.html</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.tm</mask>
+      <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
       <mask>*.tmpl</mask>
       <mask>*.py </mask>
