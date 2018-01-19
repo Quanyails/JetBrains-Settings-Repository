@@ -18,20 +18,18 @@
       <mask>*.tmpl, *.*.html</mask>
       <mask>*.tmpl, **.html</mask>
       <mask>*.tmpl, *.html</mask>
-      <mask>*.j</mask>
+      <mask>*.py </mask>
+      <mask>*.py </mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
       <mask>*.tm</mask>
       <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
       <mask>*.tmpl</mask>
-      <mask>*.tmpl,</mask>
-      <mask>*.tmpl, *</mask>
-      <mask>*.tmpl, *h</mask>
-      <mask>*.tmpl, *htm</mask>
-      <mask>*.tmpl, *html</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
     </recentFileMasks>
