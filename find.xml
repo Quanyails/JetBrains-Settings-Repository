@@ -18,10 +18,6 @@
       <mask>*.tmpl, *.*.html</mask>
       <mask>*.tmpl, **.html</mask>
       <mask>*.tmpl, *.html</mask>
-      <mask>*.py </mask>
-      <mask>*.py </mask>
-      <mask>*.py</mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.tm</mask>
       <mask>*.tmp</mask>
@@ -32,6 +28,10 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
+      <mask>*.py </mask>
+      <mask>*.py </mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
