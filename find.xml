@@ -22,7 +22,6 @@
       <mask>*.tm</mask>
       <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
-      <mask>*.tmpl</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
@@ -32,6 +31,7 @@
       <mask>*.py </mask>
       <mask>*.py</mask>
       <mask>*.py</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
