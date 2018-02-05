@@ -25,13 +25,13 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
       <mask>*.py </mask>
       <mask>*.py </mask>
       <mask>*.py</mask>
       <mask>*.py</mask>
       <mask>*.tmpl</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
