@@ -32,6 +32,7 @@
       <mask>*.tmpl</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
+      <mask>*.ini</mask>
     </recentFileMasks>
   </component>
 </application>
