@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.tmpl, *.js,</mask>
       <mask>*.tmpl, *.js, *</mask>
@@ -29,10 +30,10 @@
       <mask>*.py </mask>
       <mask>*.tmpl</mask>
       <mask>*.js</mask>
-      <mask>*.js</mask>
       <mask>*.ini</mask>
       <mask>*.py</mask>
       <mask>*.py</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
