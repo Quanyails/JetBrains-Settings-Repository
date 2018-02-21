@@ -28,11 +28,11 @@
       <mask>*.py </mask>
       <mask>*.py </mask>
       <mask>*.tmpl</mask>
-      <mask>*.js</mask>
       <mask>*.ini</mask>
       <mask>*.js</mask>
       <mask>*.py</mask>
       <mask>*.py</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
