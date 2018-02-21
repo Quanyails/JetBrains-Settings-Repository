@@ -25,12 +25,9 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.py </mask>
-      <mask>*.py </mask>
       <mask>*.tmpl</mask>
       <mask>*.ini</mask>
       <mask>*.js</mask>
-      <mask>*.py</mask>
       <mask>*.py</mask>
       <mask>*.js</mask>
     </recentFileMasks>
