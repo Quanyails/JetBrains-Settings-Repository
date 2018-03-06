@@ -27,6 +27,7 @@
       <mask>*.j</mask>
       <mask>*.tmpl</mask>
       <mask>*.ini</mask>
+      <mask>*.js</mask>
       <mask>*.tmpl</mask>
       <mask>*.py</mask>
       <mask>*.js</mask>
