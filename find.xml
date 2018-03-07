@@ -28,9 +28,10 @@
       <mask>*.ini</mask>
       <mask>*.js</mask>
       <mask>*.tmpl</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
       <mask>*.py</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
