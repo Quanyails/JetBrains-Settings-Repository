@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.tmpl, *.js,</mask>
       <mask>*.tmpl, *.js, *</mask>
@@ -28,9 +29,9 @@
       <mask>*.ini</mask>
       <mask>*.js</mask>
       <mask>*.tmpl</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
       <mask>*.py</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
