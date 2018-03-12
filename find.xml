@@ -24,14 +24,14 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.tmpl</mask>
       <mask>*.ini</mask>
       <mask>*.js</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
       <mask>*.tmpl</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
-      <mask>*.py</mask>
-      <mask>*.py</mask>
+      <mask>*.tmpl</mask>
       <mask>*.css, *.less</mask>
     </recentFileMasks>
   </component>
