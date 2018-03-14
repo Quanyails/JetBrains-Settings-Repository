@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.css, *.less, *.tmpl" />
     <recentFileMasks>
       <mask>*.tmpl, *.js,</mask>
       <mask>*.tmpl, *.js, *</mask>
@@ -33,9 +35,10 @@
       <mask>*.js</mask>
       <mask>*.tmpl</mask>
       <mask>*.tmpl</mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
       <mask>*.css, *.less</mask>
-      <mask>*.py</mask>
-      <mask>*.py</mask>
+      <mask>*.css, *.less, *.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
