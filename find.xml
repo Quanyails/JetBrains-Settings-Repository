@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.tmpl, *.js,</mask>
       <mask>*.tmpl, *.js, *</mask>
@@ -30,11 +31,11 @@
       <mask>*.js</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
-      <mask>*.py</mask>
-      <mask>*.py</mask>
       <mask>*.tmpl</mask>
       <mask>*.tmpl</mask>
       <mask>*.css, *.less</mask>
+      <mask>*.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
