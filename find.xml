@@ -28,12 +28,12 @@
       <mask>*.js</mask>
       <mask>*.js</mask>
       <mask>*.tmpl</mask>
-      <mask>*.tmpl</mask>
       <mask>*.css, *.less</mask>
       <mask>*.css, *.less, *.tmpl</mask>
       <mask>!*.svg</mask>
       <mask>*.py</mask>
       <mask>*.py</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
