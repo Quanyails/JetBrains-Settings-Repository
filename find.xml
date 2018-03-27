@@ -7,7 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.tmpl, *.js, *</mask>
       <mask>*.tmpl, *.js, *.</mask>
       <mask>*.tmpl, *.js, *.h</mask>
       <mask>*.tmpl, *.js, *.ht</mask>
@@ -36,6 +35,7 @@
       <mask>*.tmpl</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
+      <mask>*.less</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
