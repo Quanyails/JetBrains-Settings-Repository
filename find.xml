@@ -13,7 +13,7 @@
     <mask>*.mxml</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
-    <mask>*.py</mask>
     <mask>*.tmpl</mask>
+    <mask>*.py</mask>
   </component>
 </application>
