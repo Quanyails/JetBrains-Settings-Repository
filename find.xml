@@ -11,10 +11,10 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.tmpl</mask>
     <mask>*.py</mask>
     <mask>*.tmpl, *.html</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>*.tmpl</mask>
   </component>
 </application>
