@@ -12,10 +12,10 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.tmpl, *.html</mask>
-    <mask>*.less</mask>
     <mask>*.tmpl</mask>
     <mask>*.md</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
+    <mask>*.less</mask>
   </component>
 </application>
