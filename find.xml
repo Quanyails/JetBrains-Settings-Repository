@@ -15,10 +15,10 @@
     <mask>*.mxml</mask>
     <mask>*.tmpl, *.html</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>*.md</mask>
     <mask>*.less</mask>
     <mask>*.tmpl</mask>
     <mask>*.js</mask>
+    <mask>*.md</mask>
     <mask>*.py</mask>
   </component>
 </application>
