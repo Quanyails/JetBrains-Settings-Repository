@@ -19,7 +19,7 @@
     <mask>*.md</mask>
     <mask>*.js</mask>
     <mask>*.tmpl</mask>
-    <mask>*.ini</mask>
     <mask>*.py</mask>
+    <mask>*.ini</mask>
   </component>
 </application>
