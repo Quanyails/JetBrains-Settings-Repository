@@ -110,6 +110,9 @@
     <keyboard-shortcut first-keystroke="shift f7" />
     <keyboard-shortcut first-keystroke="shift f1" />
   </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
@@ -132,6 +135,7 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
+  <action id="Resume" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta f11" />
     <keyboard-shortcut first-keystroke="meta enter" />
@@ -142,6 +146,13 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="UML.ApplyCurrentLayout" />
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
