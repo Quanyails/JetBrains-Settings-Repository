@@ -17,9 +17,9 @@
     <mask>*.ts,*.tsx</mask>
     <mask>*.less</mask>
     <mask>*.md</mask>
-    <mask>*.tmpl</mask>
     <mask>*.py</mask>
     <mask>*.ini</mask>
+    <mask>*.tmpl</mask>
     <mask>*.js</mask>
   </component>
 </application>
