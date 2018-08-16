@@ -18,8 +18,8 @@
     <mask>*.md</mask>
     <mask>*.ini</mask>
     <mask>*.tmpl</mask>
-    <mask>*.less</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
