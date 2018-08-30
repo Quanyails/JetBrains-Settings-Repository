@@ -7,6 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tmpl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,9 +20,9 @@
     <mask>*.md</mask>
     <mask>*.ini</mask>
     <mask>*.less</mask>
-    <mask>*.tmpl</mask>
     <mask>*.py</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.tmpl</mask>
   </component>
 </application>
