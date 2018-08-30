@@ -17,9 +17,9 @@
     <mask>*.md</mask>
     <mask>*.ini</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.tmpl</mask>
     <mask>*.less</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
   </component>
 </application>
