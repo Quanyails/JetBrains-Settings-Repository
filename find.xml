@@ -16,10 +16,10 @@
     <mask>*.ts,*.tsx</mask>
     <mask>*.md</mask>
     <mask>*.ini</mask>
-    <mask>*.less</mask>
     <mask>*.py</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.tmpl</mask>
+    <mask>*.less</mask>
   </component>
 </application>
