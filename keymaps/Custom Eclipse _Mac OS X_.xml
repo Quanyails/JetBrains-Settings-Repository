@@ -31,12 +31,19 @@
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl meta slash" />
   </action>
+  <action id="Console.Execute" />
   <action id="Console.Execute.Multiline" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Diff.SelectedChange" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="EditorChooseLookupItem" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
@@ -44,6 +51,7 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="EditorEnter" />
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="ctrl m" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
@@ -97,14 +105,24 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="Images.Thumbnails.Hide" />
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="IpnbRunCellInplaceAction" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="ctrl f7" />
     <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
