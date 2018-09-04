@@ -21,7 +21,7 @@
     <mask>*.yml</mask>
     <mask>*.less</mask>
     <mask>*.tmpl</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
   </component>
 </application>
