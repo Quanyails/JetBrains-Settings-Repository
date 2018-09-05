@@ -20,8 +20,8 @@
     <mask>*.tf</mask>
     <mask>*.yml</mask>
     <mask>*.tmpl</mask>
-    <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.py</mask>
   </component>
 </application>
