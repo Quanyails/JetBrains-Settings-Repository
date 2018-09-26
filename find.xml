@@ -19,9 +19,9 @@
     <mask>*.css</mask>
     <mask>*.tf</mask>
     <mask>*.yml</mask>
-    <mask>*.py</mask>
     <mask>*.tmpl</mask>
-    <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.js</mask>
+    <mask>*.py</mask>
   </component>
 </application>
