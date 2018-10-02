@@ -23,5 +23,6 @@
     <mask>*.js</mask>
     <mask>*.tmpl</mask>
     <mask>*.less</mask>
+    <mask>!*.yml</mask>
   </component>
 </application>
