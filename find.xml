@@ -18,12 +18,13 @@
     <mask>*.ini</mask>
     <mask>*.css</mask>
     <mask>*.tf</mask>
-    <mask>*.tmpl</mask>
     <mask>*.less</mask>
     <mask>!*.yml</mask>
     <mask>*js</mask>
     <mask>*.py</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.tmpl</mask>
+    <mask>*.tag</mask>
   </component>
 </application>
