@@ -24,7 +24,7 @@
     <mask>*.yml</mask>
     <mask>*.tag</mask>
     <mask>*.tmpl</mask>
-    <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
