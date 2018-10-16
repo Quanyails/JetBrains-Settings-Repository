@@ -20,11 +20,11 @@
     <mask>*.tf</mask>
     <mask>!*.yml</mask>
     <mask>*js</mask>
-    <mask>*.py</mask>
     <mask>*.yml</mask>
     <mask>*.tag</mask>
     <mask>*.tmpl</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.py</mask>
   </component>
 </application>
