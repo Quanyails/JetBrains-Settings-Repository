@@ -23,8 +23,8 @@
     <mask>*.yml</mask>
     <mask>*.tag</mask>
     <mask>*.tmpl</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.less</mask>
+    <mask>*.js</mask>
   </component>
 </application>
