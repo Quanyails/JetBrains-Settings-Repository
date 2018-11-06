@@ -24,8 +24,8 @@
     <mask>*.tag</mask>
     <mask>*.less</mask>
     <mask>*tmpl</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.tmpl</mask>
+    <mask>*.js</mask>
   </component>
 </application>
