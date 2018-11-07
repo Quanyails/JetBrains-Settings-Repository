@@ -22,11 +22,11 @@
     <mask>*js</mask>
     <mask>*.yml</mask>
     <mask>*.tag</mask>
-    <mask>*.less</mask>
     <mask>*tmpl</mask>
     <mask>*.py</mask>
     <mask>*.tmpl</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
