@@ -27,7 +27,7 @@
     <mask>*.less</mask>
     <mask>*.tmpl</mask>
     <mask>*.</mask>
-    <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>*.py</mask>
   </component>
 </application>
