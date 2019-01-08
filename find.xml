@@ -24,7 +24,6 @@
     <mask>*.tag</mask>
     <mask>*tmpl</mask>
     <mask>*.</mask>
-    <mask>*.tmpl</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.ts,*tsx</mask>
@@ -32,5 +31,6 @@
     <mask>*.json</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.py</mask>
+    <mask>*.tmpl</mask>
   </component>
 </application>
