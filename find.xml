@@ -28,9 +28,9 @@
     <mask>*.ts</mask>
     <mask>*.ts,*tsx</mask>
     <mask>*.less</mask>
-    <mask>*.json</mask>
     <mask>*.py</mask>
     <mask>*.tmpl</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.json</mask>
   </component>
 </application>

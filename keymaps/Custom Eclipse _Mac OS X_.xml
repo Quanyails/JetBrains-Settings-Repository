@@ -85,6 +85,9 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile">
