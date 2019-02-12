@@ -26,7 +26,6 @@
     <mask>*.</mask>
     <mask>*.ts</mask>
     <mask>*.ts,*tsx</mask>
-    <mask>*.tmpl</mask>
     <mask>*.js</mask>
     <mask>!*.py</mask>
     <mask>*.less</mask>
@@ -34,5 +33,6 @@
     <mask>*.scss</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.py</mask>
+    <mask>*.tmpl</mask>
   </component>
 </application>
