@@ -45,8 +45,8 @@
   </action>
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="ctrl m" />
-    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EvaluateExpression">
