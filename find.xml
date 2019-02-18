@@ -32,7 +32,7 @@
     <mask>*.tmpl</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.ts, *.tsx</mask>
-    <mask>*.json</mask>
     <mask>*.py</mask>
+    <mask>*.json</mask>
   </component>
 </application>
