@@ -27,12 +27,12 @@
     <mask>*.js</mask>
     <mask>!*.py</mask>
     <mask>*.less</mask>
-    <mask>*.scss</mask>
     <mask>*.tmpl</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.py</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
