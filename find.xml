@@ -34,5 +34,6 @@
     <mask>*.py</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.scss</mask>
+    <mask>!*.scss</mask>
   </component>
 </application>
