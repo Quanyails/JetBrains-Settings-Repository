@@ -33,7 +33,7 @@
     <mask>*.less</mask>
     <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>*.tsx</mask>
     <mask>*.scss</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
