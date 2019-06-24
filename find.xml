@@ -31,9 +31,9 @@
     <mask>*.css</mask>
     <mask>*.less</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>*.scss</mask>
     <mask>*.py</mask>
     <mask>*.tsx</mask>
     <mask>*.json</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
