@@ -30,10 +30,10 @@
     <mask>*.scss</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.json</mask>
     <mask>*.tmpl</mask>
     <mask>*.tag</mask>
     <mask>*.py</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
