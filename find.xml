@@ -33,7 +33,7 @@
     <mask>*.ts,*.tsx</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.py</mask>
     <mask>*.ts</mask>
+    <mask>*.py</mask>
   </component>
 </application>
