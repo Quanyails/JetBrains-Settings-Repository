@@ -31,9 +31,9 @@
     <mask>*.tmpl</mask>
     <mask>*.tag</mask>
     <mask>*.js</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
