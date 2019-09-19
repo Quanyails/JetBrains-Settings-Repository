@@ -7,7 +7,7 @@
     <keyboard-shortcut first-keystroke="meta alt c" />
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
-  <action id="CloseContent" />
+  <action id="CloseActiveTab" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
