@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="67b32eb1-da98-4417-9480-bf28a7c09bb5" name="Quanyails">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="Quanyails" />
     <option name="AUTH_TYPE" value="BASIC" />
