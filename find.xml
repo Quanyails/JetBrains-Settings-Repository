@@ -19,7 +19,6 @@
     <mask>*tmpl</mask>
     <mask>*.</mask>
     <mask>*.ts,*tsx</mask>
-    <mask>!*.py</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>!*.scss</mask>
     <mask>*.d.ts</mask>
@@ -33,6 +32,7 @@
     <mask>*.ts,*.tsx</mask>
     <mask>*.tsx</mask>
     <mask>*.scss</mask>
+    <mask>!*.py</mask>
     <mask>*.py</mask>
     <mask>*.scala</mask>
   </component>
