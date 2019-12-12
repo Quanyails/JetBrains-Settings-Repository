@@ -187,6 +187,12 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="ViewSource" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="osmedile.intellij.stringmanip.RepeatAction">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
