@@ -13,5 +13,6 @@
     <mask>*.proto</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
