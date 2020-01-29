@@ -14,5 +14,6 @@
     <mask>*.md</mask>
     <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.yml,*.yaml</mask>
   </component>
 </application>
