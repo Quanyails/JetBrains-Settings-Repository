@@ -13,6 +13,7 @@
     <mask>*.proto</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
+    <mask>*.yml,*.yaml</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.java</mask>
   </component>
