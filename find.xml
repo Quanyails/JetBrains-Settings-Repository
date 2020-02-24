@@ -12,5 +12,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.proto</mask>
+    <mask>*.py</mask>
   </component>
 </application>
