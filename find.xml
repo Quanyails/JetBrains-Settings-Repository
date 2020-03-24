@@ -12,5 +12,6 @@
     <mask>*.proto</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
