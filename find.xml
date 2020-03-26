@@ -13,5 +13,6 @@
     <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
     <mask>*.scss</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
