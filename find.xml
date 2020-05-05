@@ -12,7 +12,7 @@
     <mask>*.proto</mask>
     <mask>*.scss</mask>
     <mask>*.yml</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
