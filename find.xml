@@ -13,7 +13,7 @@
     <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.json</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
