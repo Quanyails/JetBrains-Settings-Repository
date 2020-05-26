@@ -13,8 +13,8 @@
     <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.json</mask>
-    <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.md</mask>
+    <mask>*.py</mask>
   </component>
 </application>
