@@ -14,7 +14,7 @@
     <mask>*.md</mask>
     <mask>*test.java</mask>
     <mask>*.py</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.proto</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
