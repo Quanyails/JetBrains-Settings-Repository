@@ -18,6 +18,7 @@
     <mask>!*.py</mask>
     <mask>*.py</mask>
     <mask>*.test.tsx</mask>
+    <mask>duoActions/*/*.ts,*.tsx</mask>
     <mask>*.ts,*.tsx</mask>
   </component>
 </application>
