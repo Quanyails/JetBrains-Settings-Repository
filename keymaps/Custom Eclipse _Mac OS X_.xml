@@ -2,6 +2,7 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="AutoIndentLines" />
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="meta alt c" />
