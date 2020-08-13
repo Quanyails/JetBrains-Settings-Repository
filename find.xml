@@ -19,7 +19,7 @@
     <mask>*.test.tsx</mask>
     <mask>duoActions/*/*.ts,*.tsx</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>*.kt</mask>
     <mask>*.py</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
