@@ -20,5 +20,6 @@
     <mask>duoActions/*/*.ts,*.tsx</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
