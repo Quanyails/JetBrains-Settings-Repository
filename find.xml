@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -21,7 +22,7 @@
     <mask>duoActions/*/*.ts,*.tsx</mask>
     <mask>*.kt</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>*.py</mask>
     <mask>*.scss</mask>
+    <mask>*.py</mask>
   </component>
 </application>
