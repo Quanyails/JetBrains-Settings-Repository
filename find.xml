@@ -7,7 +7,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts,*.tsx" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -24,9 +23,9 @@
     <mask>duoActions/*/*.ts,*.tsx</mask>
     <mask>*.kt</mask>
     <mask>*.ts,*.js</mask>
-    <mask>*.py</mask>
     <mask>1</mask>
     <mask>*.scss</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.py</mask>
   </component>
 </application>
