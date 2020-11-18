@@ -18,9 +18,10 @@
     <mask>*.test.tsx</mask>
     <mask>duoActions/*/*.ts,*.tsx</mask>
     <mask>*.kt</mask>
-    <mask>*.scss</mask>
     <mask>*.ts,*.js</mask>
+    <mask>1</mask>
     <mask>*.py</mask>
+    <mask>*.scss</mask>
     <mask>*.ts,*.tsx</mask>
   </component>
 </application>
