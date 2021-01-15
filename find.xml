@@ -24,5 +24,6 @@
     <mask>*.py</mask>
     <mask>*.tf</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
