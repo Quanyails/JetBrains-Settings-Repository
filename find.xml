@@ -23,7 +23,7 @@
     <mask>*.scss</mask>
     <mask>*.tf</mask>
     <mask>*.js</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
