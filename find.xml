@@ -19,12 +19,12 @@
     <mask>*.kt</mask>
     <mask>*.ts,*.js</mask>
     <mask>1</mask>
-    <mask>*.scss</mask>
     <mask>*.tsx</mask>
     <mask>*.js</mask>
     <mask>*.tf</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
