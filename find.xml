@@ -22,9 +22,9 @@
     <mask>*.js</mask>
     <mask>*.tf</mask>
     <mask>*.md</mask>
-    <mask>*.py</mask>
     <mask>*.scss</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>!*.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>
