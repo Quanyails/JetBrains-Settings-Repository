@@ -2,12 +2,11 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="test-pipeline" type="AUTO_DETECTED" />
+      <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="tmpl" type="Handlebars/Mustache" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
+      <mapping pattern="tsconfig.test.json" type="tsconfig" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -17,9 +16,8 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="tsconfig.*.json" approved="true" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.test.json" approved="true" type="tsconfig" />
-      <mapping pattern="Dockerfile.*" type="Dockerfile" />
-      <mapping pattern="tsconfig.test.json" type="tsconfig" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
