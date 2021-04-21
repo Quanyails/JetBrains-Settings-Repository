@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="duolingo-ios-manual-pipeline" type="AUTO_DETECTED" />
       <mapping pattern="test-pipeline" type="AUTO_DETECTED" />
+      <mapping pattern="docker" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="tmpl" type="Handlebars/Mustache" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
