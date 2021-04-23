@@ -23,8 +23,9 @@
     <mask>*.md</mask>
     <mask>*.scss</mask>
     <mask>!*.py</mask>
-    <mask>*.json</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*.json</mask>
+    <mask>!*.yml</mask>
   </component>
 </application>
