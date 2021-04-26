@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="duolingo-ios-manual-pipeline" type="AUTO_DETECTED" />
       <mapping pattern="test-pipeline" type="AUTO_DETECTED" />
-      <mapping pattern="docker" type="AUTO_DETECTED" />
       <mapping pattern="duolingo-ios-trigger-manual-pipeline" type="AUTO_DETECTED" />
+      <mapping pattern="docker" type="AUTO_DETECTED" />
       <mapping pattern="duolingo-ios-trigger-polish-day" type="AUTO_DETECTED" />
       <mapping pattern="duolingo-ios-trigger-rc-pipeline" type="AUTO_DETECTED" />
       <mapping ext="tmpl" type="Handlebars/Mustache" />
