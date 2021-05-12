@@ -24,8 +24,8 @@
     <mask>!*.py</mask>
     <mask>*.json</mask>
     <mask>!*.yml</mask>
-    <mask>*.py</mask>
     <mask>*.yml</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.py</mask>
   </component>
 </application>
