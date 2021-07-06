@@ -17,15 +17,16 @@
     <mask>*.ts,*.js</mask>
     <mask>1</mask>
     <mask>*.tsx</mask>
-    <mask>*.js</mask>
     <mask>*.tf</mask>
     <mask>*.md</mask>
     <mask>*.scss</mask>
     <mask>!*.py</mask>
-    <mask>*.json</mask>
     <mask>!*.yml</mask>
     <mask>*.yml</mask>
-    <mask>*.ts,*.tsx</mask>
+    <mask>*.json</mask>
+    <mask>*.js</mask>
     <mask>*.py</mask>
+    <mask>*.yml,*.yaml</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
