@@ -129,9 +129,11 @@
   </action>
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift tab" />
+    <keyboard-shortcut first-keystroke="shift f1" />
   </action>
   <action id="QuickEvaluateExpression" />
   <action id="QuickImplementations">
