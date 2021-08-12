@@ -24,12 +24,12 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.yml,*.yaml</mask>
-    <mask>*.scss</mask>
     <mask>*.tf</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
     <mask>*.sh</mask>
     <mask>*-pipeline</mask>
     <mask>!*.md</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
