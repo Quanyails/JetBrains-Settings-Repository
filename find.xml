@@ -17,7 +17,6 @@
     <mask>*.ts,*.js</mask>
     <mask>1</mask>
     <mask>*.tsx</mask>
-    <mask>*.md</mask>
     <mask>!*.py</mask>
     <mask>!*.yml</mask>
     <mask>*.yml</mask>
@@ -31,5 +30,6 @@
     <mask>!*.md</mask>
     <mask>*.scss</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.md</mask>
   </component>
 </application>
