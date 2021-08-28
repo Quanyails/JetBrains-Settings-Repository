@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts,*.tsx" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -28,10 +29,10 @@
     <mask>*-pipeline</mask>
     <mask>!*.md</mask>
     <mask>*.md</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.gradle</mask>
     <mask>*.py</mask>
     <mask>*.py</mask>
     <mask>*.scss</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
