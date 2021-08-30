@@ -31,8 +31,8 @@
     <mask>*.md</mask>
     <mask>*.gradle</mask>
     <mask>*.scss</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
   </component>
 </application>
