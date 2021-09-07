@@ -9,7 +9,8 @@
       <mapping pattern="docker" type="AUTO_DETECTED" />
       <mapping pattern="duolingo-ios-manual-pipeline" type="AUTO_DETECTED" />
       <mapping pattern="duolingo-ios-trigger-manual-pipeline" type="AUTO_DETECTED" />
-      <mapping ext="tmpl" type="Handlebars/Mustache" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".java-version" type="PLAIN_TEXT" />
