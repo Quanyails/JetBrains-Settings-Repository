@@ -28,10 +28,10 @@
     <mask>*-pipeline</mask>
     <mask>!*.md</mask>
     <mask>*.md</mask>
-    <mask>*.gradle</mask>
     <mask>*.scss</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
     <mask>*.py</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
