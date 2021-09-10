@@ -33,6 +33,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta slash" />
   </action>
   <action id="Console.TableResult.FindInGrid" />
+  <action id="DecrementWindowHeight" />
   <action id="Diff.SelectedChange" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Redo">
@@ -50,7 +51,13 @@
     <keyboard-shortcut first-keystroke="alt open_bracket" />
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
   <action id="EditorSplitLine" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
@@ -108,6 +115,7 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="Images.Thumbnails.Hide" />
+  <action id="IncrementWindowHeight" />
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
@@ -120,11 +128,11 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="NextDiff">
-    <keyboard-shortcut first-keystroke="ctrl f7" />
+    <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="PreviousDiff">
-    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="shift f1" />
   </action>
   <action id="QuickEvaluateExpression" />
@@ -151,6 +159,9 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="Resume" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta f11" />
