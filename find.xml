@@ -14,7 +14,6 @@
     <mask>*.swift</mask>
     <mask>*.test.tsx</mask>
     <mask>duoActions/*/*.ts,*.tsx</mask>
-    <mask>*.kt</mask>
     <mask>*.ts,*.js</mask>
     <mask>1</mask>
     <mask>*.tsx</mask>
