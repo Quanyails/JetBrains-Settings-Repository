@@ -32,5 +32,6 @@
     <mask>*.py</mask>
     <mask>*.scss</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
