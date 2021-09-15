@@ -26,11 +26,12 @@
     <mask>*.sh</mask>
     <mask>!*.md</mask>
     <mask>*.md</mask>
+    <mask>*.kt</mask>
+    <mask>*.java</mask>
+    <mask>!*.kt</mask>
+    <mask>*.py</mask>
     <mask>*.scss</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>*.py</mask>
-    <mask>*.py</mask>
     <mask>*.gradle</mask>
-    <mask>*-pipeline</mask>
   </component>
 </application>
