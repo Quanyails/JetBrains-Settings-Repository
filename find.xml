@@ -30,7 +30,7 @@
     <mask>!*.kt</mask>
     <mask>*.scss</mask>
     <mask>*.gradle</mask>
-    <mask>*.ts,*.tsx</mask>
+    <mask>*-pipeline</mask>
     <mask>*.py</mask>
     <mask>*-pipeline</mask>
   </component>
