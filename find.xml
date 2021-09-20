@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -33,5 +32,6 @@
     <mask>*-pipeline</mask>
     <mask>*.py</mask>
     <mask>*-pipeline</mask>
+    <mask>*.ts,*tsx</mask>
   </component>
 </application>
