@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.xml" />
+    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*test.java</mask>
@@ -14,7 +14,6 @@
     <mask>*.ts,*.js</mask>
     <mask>1</mask>
     <mask>*.tsx</mask>
-    <mask>!*.py</mask>
     <mask>!*.yml</mask>
     <mask>*.yml</mask>
     <mask>*.json</mask>
@@ -33,6 +32,6 @@
     <mask>*-pipeline</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
-    <mask>!*.xml</mask>
+    <mask>!*.py</mask>
   </component>
 </application>
