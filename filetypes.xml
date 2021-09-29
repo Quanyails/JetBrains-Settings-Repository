@@ -1,17 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="duolingo-ios-trigger-rc-pipeline" type="AUTO_DETECTED" />
       <mapping pattern="splinter" type="AUTO_DETECTED" />
-      <mapping pattern="duolingo-ios-manual-pipeline" type="AUTO_DETECTED" />
       <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="test-pipeline" type="AUTO_DETECTED" />
-      <mapping pattern="docker" type="AUTO_DETECTED" />
       <mapping pattern="duolingo-ios-trigger-polish-day" type="AUTO_DETECTED" />
-      <mapping pattern="duolingo-ios-trigger-rc-pipeline" type="AUTO_DETECTED" />
+      <mapping pattern="docker" type="AUTO_DETECTED" />
+      <mapping pattern="duolingo-ios-manual-pipeline" type="AUTO_DETECTED" />
       <mapping pattern="duolingo-ios-trigger-manual-pipeline" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".java-version" type="PLAIN_TEXT" />
@@ -28,6 +25,9 @@
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="tsconfig.*.json" approved="true" type="tsconfig" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
