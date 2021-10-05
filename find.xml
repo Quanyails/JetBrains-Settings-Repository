@@ -29,9 +29,9 @@
     <mask>*.md</mask>
     <mask>!*.py</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>*.swift</mask>
     <mask>*.py</mask>
     <mask>*-pipeline</mask>
     <mask>*-pipeline</mask>
+    <mask>*.swift</mask>
   </component>
 </application>
