@@ -30,8 +30,8 @@
     <mask>!*.py</mask>
     <mask>*.py</mask>
     <mask>*-pipeline</mask>
-    <mask>*-pipeline</mask>
     <mask>*.swift</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*-pipeline</mask>
   </component>
 </application>
