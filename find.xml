@@ -20,7 +20,6 @@
     <mask>*.tf</mask>
     <mask>*.sh</mask>
     <mask>!*.md</mask>
-    <mask>*.kt</mask>
     <mask>*.java</mask>
     <mask>!*.kt</mask>
     <mask>*.scss</mask>
@@ -33,5 +32,6 @@
     <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.swift</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
