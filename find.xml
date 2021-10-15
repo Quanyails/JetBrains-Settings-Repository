@@ -31,7 +31,7 @@
     <mask>*.kt</mask>
     <mask>*.py</mask>
     <mask>*.tf</mask>
-    <mask>*.scss</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
