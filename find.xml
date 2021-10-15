@@ -29,10 +29,10 @@
     <mask>*-pipeline</mask>
     <mask>*.swift</mask>
     <mask>*-pipeline</mask>
-    <mask>*.scss</mask>
     <mask>*.kt</mask>
     <mask>*.py</mask>
     <mask>*.tf</mask>
+    <mask>*.scss</mask>
     <mask>*.ts,*.tsx</mask>
   </component>
 </application>
