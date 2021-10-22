@@ -27,12 +27,12 @@
     <mask>*.md</mask>
     <mask>!*.py</mask>
     <mask>*.swift</mask>
-    <mask>*-pipeline</mask>
     <mask>*.scss</mask>
     <mask>*.kt</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
     <mask>*.tf</mask>
+    <mask>*-pipeline</mask>
     <mask>*-pipeline</mask>
   </component>
 </application>
