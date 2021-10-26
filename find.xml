@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*-pipeline" />
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*test.java</mask>
@@ -26,11 +27,11 @@
     <mask>*.md</mask>
     <mask>!*.py</mask>
     <mask>*.swift</mask>
-    <mask>*-pipeline</mask>
     <mask>*.kt</mask>
     <mask>*.scss</mask>
     <mask>*.tf</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*-pipeline</mask>
   </component>
 </application>
