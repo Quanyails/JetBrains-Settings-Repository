@@ -30,8 +30,8 @@
     <mask>*.scss</mask>
     <mask>*.tf</mask>
     <mask>*.scala</mask>
-    <mask>*.py</mask>
     <mask>*-pipeline</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.py</mask>
   </component>
 </application>
