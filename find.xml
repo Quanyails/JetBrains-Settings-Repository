@@ -29,8 +29,9 @@
     <mask>*.kt</mask>
     <mask>*.scss</mask>
     <mask>*.tf</mask>
-    <mask>*.ts,*.tsx</mask>
-    <mask>*.py</mask>
+    <mask>*.scala</mask>
     <mask>*-pipeline</mask>
+    <mask>*.py</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
