@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.ts,*.tsx" />
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*test.java</mask>
@@ -32,7 +34,7 @@
     <mask>*.scala</mask>
     <mask>*.tf</mask>
     <mask>*-pipeline</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
