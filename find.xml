@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*test.java</mask>
     <mask>*.proto</mask>
@@ -18,7 +19,6 @@
     <mask>*.yml,*.yaml</mask>
     <mask>*.sh</mask>
     <mask>!*.md</mask>
-    <mask>*.java</mask>
     <mask>!*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.ts,*tsx</mask>
@@ -33,5 +33,6 @@
     <mask>*.ts,*.tsx</mask>
     <mask>*-pipeline</mask>
     <mask>*.py</mask>
+    <mask>*.java</mask>
   </component>
 </application>
