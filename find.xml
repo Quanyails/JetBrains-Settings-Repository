@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
     <mask>*test.java</mask>
     <mask>*.proto</mask>
     <mask>*.test.tsx</mask>
@@ -29,9 +28,10 @@
     <mask>*.tf</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*-pipeline</mask>
-    <mask>*.py</mask>
     <mask>*.java</mask>
+    <mask>*.ts,*.tsx</mask>
+    <mask>*.py</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
