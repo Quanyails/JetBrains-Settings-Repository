@@ -30,8 +30,8 @@
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*-pipeline</mask>
     <mask>*.py</mask>
     <mask>*.xml</mask>
-    <mask>*-pipeline</mask>
   </component>
 </application>
