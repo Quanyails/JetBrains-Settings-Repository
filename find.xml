@@ -22,7 +22,6 @@
     <mask>*.md</mask>
     <mask>!*.py</mask>
     <mask>*.swift</mask>
-    <mask>*.kt</mask>
     <mask>*.scala</mask>
     <mask>*.tf</mask>
     <mask>*.scss</mask>
@@ -30,8 +29,9 @@
     <mask>*.java</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*-pipeline</mask>
-    <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*.py</mask>
+    <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
