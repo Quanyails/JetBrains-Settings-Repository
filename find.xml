@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.swift" />
+    <option name="FILE_MASK" value="*.ts,*.tsx" />
     <mask>*test.java</mask>
     <mask>*.proto</mask>
     <mask>*.test.tsx</mask>
@@ -29,12 +27,12 @@
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.json</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*-pipeline</mask>
-    <mask>*.py</mask>
     <mask>*.swift</mask>
+    <mask>*.py</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
