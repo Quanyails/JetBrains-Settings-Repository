@@ -10,6 +10,8 @@
       <mapping pattern="docker" type="AUTO_DETECTED" />
       <mapping pattern="duolingo-ios-manual-pipeline" type="AUTO_DETECTED" />
       <mapping pattern="duolingo-ios-trigger-manual-pipeline" type="AUTO_DETECTED" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".java-version" type="PLAIN_TEXT" />
