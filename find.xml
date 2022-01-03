@@ -31,7 +31,7 @@
     <mask>*-pipeline</mask>
     <mask>*.py</mask>
     <mask>*.swift</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.scss</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
