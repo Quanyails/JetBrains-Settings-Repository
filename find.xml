@@ -29,9 +29,9 @@
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*-pipeline</mask>
-    <mask>*.py</mask>
     <mask>*.swift</mask>
     <mask>*.scss</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.py</mask>
   </component>
 </application>
