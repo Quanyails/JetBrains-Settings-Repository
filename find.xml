@@ -28,10 +28,10 @@
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*-pipeline</mask>
-    <mask>*.scss</mask>
     <mask>*.tf</mask>
     <mask>*.swift</mask>
     <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
