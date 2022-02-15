@@ -30,8 +30,8 @@
     <mask>*.scss</mask>
     <mask>*.py,*.json</mask>
     <mask>*.groovy,*-pipeline</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.swift</mask>
     <mask>*.py</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
