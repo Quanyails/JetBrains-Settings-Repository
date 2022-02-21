@@ -15,7 +15,6 @@
     <mask>*.sh</mask>
     <mask>!*.md</mask>
     <mask>!*.kt</mask>
-    <mask>*.gradle</mask>
     <mask>*.ts,*tsx</mask>
     <mask>*.md</mask>
     <mask>!*.py</mask>
@@ -33,5 +32,6 @@
     <mask>*.swift</mask>
     <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
