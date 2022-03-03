@@ -23,7 +23,6 @@
     <mask>*.json</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
-    <mask>*-pipeline</mask>
     <mask>*.tf</mask>
     <mask>*.scss</mask>
     <mask>*.py,*.json</mask>
@@ -31,5 +30,6 @@
     <mask>*.md</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*-pipeline</mask>
   </component>
 </application>
