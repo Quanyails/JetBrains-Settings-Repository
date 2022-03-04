@@ -27,9 +27,9 @@
     <mask>*.scss</mask>
     <mask>*.py,*.json</mask>
     <mask>*.swift</mask>
-    <mask>*.md</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>*.py</mask>
     <mask>*-pipeline</mask>
+    <mask>*.md</mask>
+    <mask>*.py</mask>
   </component>
 </application>
