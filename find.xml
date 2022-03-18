@@ -9,7 +9,6 @@
     <mask>1</mask>
     <mask>*.tsx</mask>
     <mask>!*.yml</mask>
-    <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.yml,*.yaml</mask>
     <mask>*.sh</mask>
@@ -27,9 +26,11 @@
     <mask>*.scss</mask>
     <mask>*.py,*.json</mask>
     <mask>*.swift</mask>
-    <mask>*.ts,*.tsx</mask>
-    <mask>*-pipeline</mask>
     <mask>*.md</mask>
+    <mask>*-pipeline</mask>
+    <mask>*.ts,*.ts</mask>
+    <mask>*.ts,*.tsx</mask>
+    <mask>*.yml</mask>
     <mask>*.py</mask>
   </component>
 </application>
