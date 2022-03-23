@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.test.tsx</mask>
     <mask>duoActions/*/*.ts,*.tsx</mask>
     <mask>*.ts,*.js</mask>
@@ -30,8 +33,8 @@
     <mask>*.ts,*.ts</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.xml</mask>
-    <mask>*.yml</mask>
     <mask>*.groovy,*-pipeline</mask>
+    <mask>*.yml</mask>
     <mask>*.py</mask>
   </component>
 </application>
