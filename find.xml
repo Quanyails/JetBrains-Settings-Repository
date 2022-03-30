@@ -30,8 +30,8 @@
     <mask>*.xml</mask>
     <mask>!*.py</mask>
     <mask>*.groovy,*-pipeline</mask>
-    <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.yml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
