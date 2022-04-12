@@ -31,7 +31,7 @@
     <mask>*.yml</mask>
     <mask>*.groovy,*-pipeline</mask>
     <mask>*.py</mask>
-    <mask>!*.py</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>!*.py</mask>
   </component>
 </application>
