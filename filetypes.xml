@@ -5,6 +5,7 @@
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
+      <mapping pattern="tsconfig.cypress.json" type="tsconfig" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="env" approved="true" type=".env file" />
