@@ -28,10 +28,10 @@
     <mask>*-pipeline</mask>
     <mask>*.ts,*.ts</mask>
     <mask>*.xml</mask>
-    <mask>!*.py</mask>
-    <mask>*.groovy,*-pipeline</mask>
     <mask>*.yml</mask>
+    <mask>*.groovy,*-pipeline</mask>
     <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>!*.py</mask>
   </component>
 </application>
