@@ -27,11 +27,11 @@
     <mask>*.ts,*.ts</mask>
     <mask>*.xml</mask>
     <mask>!*.py</mask>
-    <mask>*.groovy,*-pipeline</mask>
     <mask>!*.py</mask>
     <mask>*.json</mask>
     <mask>*.py</mask>
     <mask>*-pipeline</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.groovy,*-pipeline</mask>
   </component>
 </application>
