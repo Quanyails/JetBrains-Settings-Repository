@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.test.tsx</mask>
     <mask>duoActions/*/*.ts,*.tsx</mask>
     <mask>*.ts,*.js</mask>
@@ -23,7 +24,6 @@
     <mask>*.py,*.json</mask>
     <mask>*.swift</mask>
     <mask>*.ts,*.ts</mask>
-    <mask>*.xml</mask>
     <mask>!*.py</mask>
     <mask>!*.py</mask>
     <mask>*.json</mask>
@@ -33,5 +33,6 @@
     <mask>*.md</mask>
     <mask>*.py</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
