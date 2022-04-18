@@ -28,10 +28,10 @@
     <mask>!*.py</mask>
     <mask>!*.py</mask>
     <mask>*.json</mask>
-    <mask>*.py</mask>
     <mask>*-pipeline</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.groovy,*-pipeline</mask>
     <mask>*.md</mask>
+    <mask>*.py</mask>
   </component>
 </application>
