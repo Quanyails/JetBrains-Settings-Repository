@@ -18,18 +18,14 @@
     <mask>*.scala</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
-    <mask>*.kt</mask>
     <mask>*.tf</mask>
     <mask>*.scss</mask>
     <mask>*.py,*.json</mask>
     <mask>*.swift</mask>
-    <mask>*.md</mask>
     <mask>*.ts,*.ts</mask>
-    <mask>*.xml</mask>
     <mask>!*.py</mask>
     <mask>!*.py</mask>
     <mask>*.json</mask>
-    <mask>*.py</mask>
     <mask>*-pipeline</mask>
     <mask>*.yml,*.yaml</mask>
     <mask>*.ts,*.tsx</mask>
