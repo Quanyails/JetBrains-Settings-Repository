@@ -30,5 +30,6 @@
     <mask>*.groovy,*-pipeline</mask>
     <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.html</mask>
   </component>
 </application>
