@@ -29,7 +29,7 @@
     <mask>*.yml,*.yaml</mask>
     <mask>*.groovy,*-pipeline</mask>
     <mask>*.html</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
