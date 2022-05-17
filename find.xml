@@ -29,5 +29,6 @@
     <mask>*.yml,*.yaml</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.groovy,*-pipeline</mask>
+    <mask>*.py</mask>
   </component>
 </application>
