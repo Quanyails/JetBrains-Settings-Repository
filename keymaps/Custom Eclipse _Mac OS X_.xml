@@ -183,6 +183,7 @@
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="TFFmtFileAction" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="UML.ApplyCurrentLayout" />
   <action id="UML.ZoomIn">

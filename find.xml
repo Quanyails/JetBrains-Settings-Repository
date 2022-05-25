@@ -27,8 +27,9 @@
     <mask>*.json</mask>
     <mask>*-pipeline</mask>
     <mask>*.yml,*.yaml</mask>
-    <mask>*.groovy,*-pipeline</mask>
-    <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.py</mask>
+    <mask>!*-pipeline</mask>
+    <mask>*.groovy,*-pipeline</mask>
   </component>
 </application>
