@@ -23,14 +23,14 @@
     <mask>*.py,*.json</mask>
     <mask>*.swift</mask>
     <mask>*.ts,*.ts</mask>
-    <mask>!*.py</mask>
-    <mask>!*.py</mask>
     <mask>*.json</mask>
     <mask>*-pipeline</mask>
     <mask>*.yml,*.yaml</mask>
     <mask>!*-pipeline</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.groovy,*-pipeline</mask>
+    <mask>!*.py</mask>
+    <mask>!*.py</mask>
     <mask>*.py</mask>
   </component>
 </application>
