@@ -26,9 +26,7 @@
     <mask>*.yml,*.yaml</mask>
     <mask>!*-pipeline</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>!*.kt,!*.xml,!*.md</mask>
-    <mask>*.py</mask>
     <mask>*-pipeline</mask>
-    <mask>*.gradle</mask>
+    <mask>*.py</mask>
   </component>
 </application>
