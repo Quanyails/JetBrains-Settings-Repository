@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.test.tsx</mask>
     <mask>duoActions/*/*.ts,*.tsx</mask>
     <mask>*.ts,*.js</mask>
@@ -22,11 +23,11 @@
     <mask>*.py,*.json</mask>
     <mask>*.swift</mask>
     <mask>*.ts,*.ts</mask>
-    <mask>*.json</mask>
     <mask>*.yml,*.yaml</mask>
     <mask>!*-pipeline</mask>
     <mask>*-pipeline</mask>
-    <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.py</mask>
+    <mask>*.json</mask>
   </component>
 </application>
