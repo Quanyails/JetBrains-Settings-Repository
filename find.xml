@@ -28,5 +28,6 @@
     <mask>*.json</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*-pipeline,*.groovy</mask>
   </component>
 </application>
