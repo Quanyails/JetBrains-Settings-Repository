@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*-pipeline,*.groovy" />
     <mask>*.test.tsx</mask>
     <mask>duoActions/*/*.ts,*.tsx</mask>
     <mask>*.ts,*.js</mask>
@@ -27,8 +28,8 @@
     <mask>*-pipeline</mask>
     <mask>*.json</mask>
     <mask>*.py</mask>
-    <mask>*-pipeline,*.groovy</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.kt</mask>
+    <mask>*-pipeline,*.groovy</mask>
   </component>
 </application>
