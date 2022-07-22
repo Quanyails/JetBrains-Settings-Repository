@@ -29,5 +29,6 @@
     <mask>*.py</mask>
     <mask>*-pipeline,*.groovy</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
