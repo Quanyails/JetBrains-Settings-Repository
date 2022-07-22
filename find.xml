@@ -26,9 +26,9 @@
     <mask>!*-pipeline</mask>
     <mask>*-pipeline</mask>
     <mask>*.json</mask>
-    <mask>*.py</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.kt</mask>
     <mask>*-pipeline,*.groovy</mask>
+    <mask>*.py</mask>
   </component>
 </application>
