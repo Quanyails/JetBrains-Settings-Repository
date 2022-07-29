@@ -28,7 +28,7 @@
     <mask>*.json</mask>
     <mask>*.kt</mask>
     <mask>*-pipeline,*.groovy</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.py</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
