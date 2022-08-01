@@ -26,11 +26,9 @@
     <mask>!*-pipeline</mask>
     <mask>*-pipeline</mask>
     <mask>*.json</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.kt</mask>
     <mask>*-pipeline,*.groovy</mask>
     <mask>*.py</mask>
-    <mask>!*.json,!*.xml,!*.txt,!*.java</mask>
-    <mask>*.gradle</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
