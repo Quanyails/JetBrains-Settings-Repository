@@ -3,9 +3,8 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="docker-gcloud" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
@@ -17,8 +16,9 @@
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <removed_mapping pattern="tsconfig.cypress.json" approved="true" type="tsconfig" />
       <removed_mapping pattern="tsconfig.test.json" approved="true" type="tsconfig" />
-      <mapping ext="env" type="Env File" />
-      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
